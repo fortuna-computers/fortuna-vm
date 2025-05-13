@@ -1,2 +1,2 @@
 # fortuna-io
-I/O board for Fortuna computers
+Computer that runs a VM in Pi Pico, with VGA output.
